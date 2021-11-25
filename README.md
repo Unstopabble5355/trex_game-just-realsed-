@@ -1,1 +1,2 @@
-# trex_game-just-realsed-
+# PROC18-V3ColorfullTrex
+Colorful Trex
